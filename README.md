@@ -9,6 +9,8 @@
 
 The objective of this project is to create a comprehensive analysis report of Virat Kohli's cricket career spanning from 2008 to 2022. 
 
+It encompasses a wide range of information related to matches played by Kohli during this period. This dataset contains diverse details pertinent to each match, including batting and bowling statistics, match outcomes, opponent teams, venues, dates, and other relevant match-related information. 
+
 
 ## About the Dataset:
 
